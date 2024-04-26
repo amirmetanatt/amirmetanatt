@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-## Personal Information
-Name: amir metanat
-Location: Tehran
-
 ## About me :
 I am a master's student in Artificial Intelligence with a passion for research and practical applications in the field. Currently, I am actively involved in research and work in AI, focusing on machine learning and evolutionary computing algorithms.
 
