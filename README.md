@@ -5,7 +5,9 @@ I am a master's student in Artificial Intelligence with a passion for research a
 
 ## Education
 Islamic Azad University Qazvin Branch
+
 Field: Computer Engineering, Information Technology
+
 Graduation Year: 2020
 
 ## Current Studies
