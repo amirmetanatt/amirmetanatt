@@ -1,22 +1,31 @@
 ### Hi there 👋
 
+## Personal Information
+Name: amir metanat
+Location: Tehran
+
 ## About me :
-I am a student pursuing a Bachelor's degree in Artificial Intelligence with a passion for research and practical applications in the field. Currently, I am actively involved in research and work in the field of AI, focusing on machine learning and evolutionary computing algorithms.
+I am a master's student in Artificial Intelligence with a passion for research and practical applications in the field. Currently, I am actively involved in research and work in AI, focusing on machine learning and evolutionary computing algorithms.
 
-## Skills
-- Programming Language: Python
-- Algorithms: Machine Learning, Evolutionary Computing
-- Tools: [List any specific tools or libraries you are familiar with]
+## Education
+Islamic Azad University Qazvin Branch
+Field: Computer Engineering, Information Technology
+Graduation Year: 2020
 
-## Research
-- Currently conducting research in [Brief description of your research focus]
+## Current Studies
+University: Kntu University
+Field: Artificial Intelligence
+Status: Currently studying
 
-## Contact
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+## Tech Stack
+Language/IDE: Python, C++, PyCharm, Visual Studio
+Domain Knowledge: Deep Learning, Machine Learning, Evolutionary computing
+Tools & Platform: Google Colab
+Databases & Tools: MySQL, SQL
+OS: Windows, Ubuntu
+Machine Learning/Deep Learning frameworks: Jupyter Notebook, Scikit-learn, TensorFlow, NumPy
 
-Feel free to connect for discussions related to AI and its applications!
 
----
-Feel free to add or modify any sections to better reflect your profile or future projects you plan to work on.
+
+
 
